@@ -1,4 +1,6 @@
-       function sum(arr) {  
+// function to return sum of elements  
+    // in an array of size n         
+function sum(arr) {  
         let sum = 0; 
         // initialize sum  
     
