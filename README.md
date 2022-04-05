@@ -1,2 +1,2 @@
 # 30DaysOfCode
-30 Days of coding with EXC Unilag
+https://github.com/enyasystem/30DaysOfCode
